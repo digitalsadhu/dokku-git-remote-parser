@@ -1,7 +1,7 @@
 {
   "name": "dokku-git-remote-parser",
   "version": "1.0.0",
-  "description": "",
+  "description": "Retrieves dokku host and app name from a directory by reading and parsing the git remotes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
