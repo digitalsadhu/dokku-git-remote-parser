@@ -4,7 +4,7 @@
   "description": "Retrieves dokku host and app name from a directory by reading and parsing the git remotes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test --reporter=spec"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/digitalsadhu/dokku-git-remote-parser#readme",
   "dependencies": {
     "git-remotes": "^1.0.0"
+  },
+  "devDependencies": {
+    "expect": "^1.9.0",
+    "mocha": "^2.2.5"
   }
 }
