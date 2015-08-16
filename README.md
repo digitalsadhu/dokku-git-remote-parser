@@ -1,4 +1,4 @@
-dokku-git-remote-parser
+dokku-git-remote-parser [![Build Status](https://travis-ci.org/digitalsadhu/dokku-git-remote-parser.svg?branch=master)](https://travis-ci.org/digitalsadhu/dokku-git-remote-parser)
 =======================
 
 Retrieves dokku host and app name from a directory by reading and parsing
