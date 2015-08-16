@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/digitalsadhu/dokku-git-remote-parser#readme",
   "dependencies": {
-    "dokku-git-remote-stream": "0.0.2"
+    "git-remotes": "^1.0.0"
   }
 }
